@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning .NET and C#<br>Focusing on hobby projects<br>Looking for an internship in Sweden
+I'm learning .NET and C#<br>Focusing on hobby projects<br> Doing my internship in Sweden
 
 
 ## 🌐 Socials:
