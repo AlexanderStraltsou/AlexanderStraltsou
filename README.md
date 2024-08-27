@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Hi, I'm Alex, a .NET Software Developer based in Malmö, Sweden<b><br>This GitHub account showcases my hobby projects, open-source contributions, collaborations, and portfolio work.<br> My professional and work-related projects are hosted on Azure DevOps.
+Hi, I'm Alex, a .NET Software Developer based in Malmö, Sweden<br>This GitHub account showcases my hobby projects, open-source contributions, collaborations, and portfolio work.<br> My professional and work-related projects are hosted on Azure DevOps.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-straltsou) 
